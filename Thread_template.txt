@@ -25,7 +25,7 @@
 
 [CENTER]
 [img]https://i.postimg.cc/TYNgXxBC/features.png[/img]
-[URL="https://blog.msmxtended.me/features/"][B][SIZE="6"]HERE[/SIZE][/B][/URL]
+[URL="https://blog.msmxtended.org/features/"][B][SIZE="6"]HERE[/SIZE][/B][/URL]
 [/CENTER]
 
 [CENTER]
@@ -57,8 +57,8 @@
 [img]https://i.postimg.cc/0QCKX1pG/support-links.png[/img]
 [URL="https://t.me/XtendedOfficial"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Public Group[/B][/COLOR][/SIZE][/URL]
 [URL="https://t.me/xtendedrom"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Update Channel[/B][/COLOR][/SIZE][/URL]
-[URL="https://msmxtended.me"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Website[/B][/COLOR][/SIZE][/URL]
-[URL="https://blog.msmxtended.me"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Blog[/B][/COLOR][/SIZE][/URL]
+[URL="https://msmxtended.org"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Website[/B][/COLOR][/SIZE][/URL]
+[URL="https://blog.msmxtended.org"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Blog[/B][/COLOR][/SIZE][/URL]
 
 [/CENTER]
 
@@ -66,7 +66,7 @@
 [img]https://i.postimg.cc/GmBYLNCr/downloads.png[/img]
 
 [SIZE="5"]
-[URL="https://sourceforge.net/projects/xtended/files/fajita"][B][COLOR="#e34500"]ROM DOWNLOAD[/COLOR][/B][/URL]
+[URL="http://downloads.msmxtended.org/"][B][COLOR="#e34500"]ROM DOWNLOAD[/COLOR][/B][/URL]
 [URL="https://opengapps.org"][B][COLOR="#e34500"]Gapps Download[/COLOR][/B][/URL]
 
 [COLOR="red"][B]**It's recommended to flash Nano Gapps only for better user experience.**[/B][/COLOR]
