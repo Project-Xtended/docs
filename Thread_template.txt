@@ -1,139 +1,30 @@
-[FONT="Trebuchet MS"][CENTER]
-[IMG="Xtended"]https://i.postimg.cc/N0Kt6zqj/template-Head.png[/IMG]
-[/CENTER]
+[CENTER][IMG]https://i.postimg.cc/qqbq6zBH/2021-X-Temp-Head.png[/IMG]
 
-[CENTER]
-[CODE]
-* Disclaimer 
-* We're not responsible for bricked devices, dead SD cards, thermonuclear war, 
-* or you getting fired because the alarm app failed. Please do some research 
-* if you have any concerns about features included in this ROM
-* before flashing it! YOU are choosing to make these modifications, and if
-* you blame me in any way for what happens to your device, I will laugh at you.
-* BOOM! goes the dynamite
-[/CODE]
-[/CENTER]
+[B][U]Disclaimer[/U][/B]
+* We're not responsible for bricked devices, dead SD card or anything happens with your device
+* Flash on your own risk/knowledge.
+[B]--------------------------------------------------------------------------------------------------------------------------------------------------------[/B][/CENTER]
 
-[CENTER]
-[IMG]https://i.postimg.cc/xdMzHz84/introduction.png[/IMG]
+[B]TEAM XTENDED: [user=8829870]@SuperDroidBond[/user] | [user=7072514]@mady51[/user] | [user=5678679]@mukesh22584[/user] | [user=7916453]@anishpratheepan[/user] | [user=9478258]@xawlw[/user] | [user=8425394]@SonalSingh18[/user] | [user=5545371]@Roger.T[/user]
 
-[SIZE="5"]
-*** Ohh Really we need to introduce! ;). We team "[B][COLOR="#e34500"]MSM Xtended[/COLOR][/B]" are here with new era of Android. We have tried our best to blend it with all available options, features and stability of different ROMs in to one for better user experience.***
-[/SIZE]
-[/CENTER]
+FEATURES: [URL='https://blog.msmxtended.org/features/']Get Feature list from HERE[/URL] 
 
+SUPPORT LINK: [URL='https://t.me/XtendedOfficial']Xtended Telegram Community Chat [/URL] | [URL='https://discord.gg/rYuwCZDnDp']Xtended Community Server[/URL]
 
-[CENTER]
-[img]https://i.postimg.cc/TYNgXxBC/features.png[/img]
-[URL="https://blog.msmxtended.org/features/"][B][SIZE="6"]HERE[/SIZE][/B][/URL]
-[/CENTER]
+SCREENSHOTS: [/B][URL='https://photos.google.com/share/AF1QipMm2ZIi6OjtbSn3ubcVPbvvWfF9UGmgmPXQo9MMBDYlGFbZG8GEBXOBrbYn18SUWQ?key=cVJYNVF3V3RsLUVkQzJnSGZPbkQxYTlJTGtOQ1Zn'][B]Click HERE[/B][/URL]
 
-[CENTER]
-[img]https://i.postimg.cc/hvPzHZrk/team-xtended.png[/img]
-[SIZE="5"]
-[COLOR="#e34500"][MENTION=5678679]mukesh22584[/MENTION]
-[MENTION=8829870]SuperDroidBond[/MENTION]
-[MENTION=7072514]mady51[/MENTION]
-[MENTION=5545371]Roger.T[/MENTION]
-[MENTION=7916453]anishpratheepan[/MENTION]
-[MENTION=9478258]xawlw[/MENTION]
-[MENTION=7030109]mcdachpappe[/MENTION]
-[MENTION=7077053]svandasek[/MENTION]
-[MENTION=4479268]Jay_B[/MENTION] 
-[MENTION=7107153]Ded_Boi[/MENTION][/COLOR]
-[/SIZE]
-[/CENTER]
+[B]ROM DOWNLOADS: [URL='']Xtended ROM[/URL]
 
-[CENTER]
-[SIZE="6"][COLOR="#e34500"][I][B]If you like our work you can buy us a cup of coffee[/B][/I][/COLOR][/SIZE]
+GAPPS DOWNLOADS: [COLOR=DarkOrange]Already Included in GAPPS version[/COLOR]
 
-[SIZE="5"]
-*[URL=https://www.paypal.me/superdroidbond][B]SuperDroidBond[/B][/URL]
-*[URL=https://www.paypal.me/urlink][B]ur donation link[/B][/URL]
-[/SIZE]
-[/CENTER]
+RECOMMENDED GAPPS:  [URL='https://androidfilehost.com/?w=files&flid=322935']MindTheGapps[/URL] 
 
-[CENTER]
-[img]https://i.postimg.cc/0QCKX1pG/support-links.png[/img]
-[URL="https://t.me/XtendedOfficial"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Public Group[/B][/COLOR][/SIZE][/URL]
-[URL="https://t.me/xtendedrom"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Update Channel[/B][/COLOR][/SIZE][/URL]
-[URL="https://msmxtended.org"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Website[/B][/COLOR][/SIZE][/URL]
-[URL="https://blog.msmxtended.org"][SIZE="5"][COLOR="#e34500"][B]MSM-Xtended Blog[/B][/COLOR][/SIZE][/URL]
+INSTRUCTIONS: [URL='']Click HERE[/URL] 
 
-[/CENTER]
+ROM SOURCE: [URL='https://github.com/Project-Xtended']Project-Xtended ROM Sources[/URL] 
 
-[CENTER]
-[img]https://i.postimg.cc/GmBYLNCr/downloads.png[/img]
+KERNEL SOURCE: [URL='https://github.com/Xtended-Devices']Our Official Devices Sources[/URL]
 
-[SIZE="5"]
-[URL="http://downloads.msmxtended.org/"][B][COLOR="#e34500"]ROM DOWNLOAD[/COLOR][/B][/URL]
-[URL="https://opengapps.org"][B][COLOR="#e34500"]Gapps Download[/COLOR][/B][/URL]
+DONATIONS: [URL='https://www.paypal.me/superdroidbond']Project-Xtended[/URL] | [URL='']Maintainer[/URL]
 
-[COLOR="red"][B]**It's recommended to flash Nano Gapps only for better user experience.**[/B][/COLOR]
-[/SIZE]
-[/CENTER]
-
-[CENTER]
-[img]https://i.postimg.cc/x1WmcRfm/instructions.png[/img]
-[SIZE="4"][B][COLOR="red"]Clean Flash[/COLOR][/B]
-1) Backup Everything (Most Important)
-2) Download ROM, Gapps.
-3) Reboot to Recovery (TWRP)
-4) Wipe System, Data, Cache, Dalvik Cache.
-5) Flash - ROM, Gapps.
-6) Once done, wipe cache.
-7) Reboot to System.
-8) Setup and [COLOR="red"]#GetXtended.[/COLOR]
-
-[B][COLOR="red"]Dirty Flash[/COLOR][/B]
-1) Backup Everything (Most Important)
-2) Download ROM
-3) Reboot to Recovery (TWRP)
-4) Wipe Cache & Dalvik Cache.
-5) Flash - ROM.
-6) Once done, wipe cache.
-8) Reboot to system and [COLOR="red"]#GetXtended.[/COLOR]
-[/SIZE]
-**[B][COLOR="Red"]If you fail to follow these instructions, please don't bother reporting any bugs[/COLOR][/B]**
-
-**[B][COLOR="Red"]If you use Xposed, please don't bother reporting any bugs[/COLOR][/B]**
-
-**[B][COLOR="Red"]If you use another kernel, please don't bother reporting any bugs[/COLOR][/B]**[/CENTER]
-
-[CENTER]
-[img]https://i.postimg.cc/pTvnBLnX/sources.png[/img]
-
-[SIZE="5"]
-[URL="https://github.com/Project-Xtended"][B][COLOR="#e34500"]MSM-Xtended Sources[/COLOR][/B][/URL]
-
-[URL="https://github.com/Xtended-Devices/"][B][COLOR="#e34500"]Kernel Source[/COLOR][/B][/URL]
-[/SIZE]
-[/CENTER]
-
-[CENTER]
-[img]https://i.postimg.cc/RCRwXKdr/credits-thanks.png[/img]
-[SIZE="5"]
-We would like to give thanks to everyone in the Android community, big or small.
-
-That said, we would like to Thank all These Teams for their contribution to the Open Source Community.
-[/SIZE]
-[SIZE="4"]
-* [URL=https://github.com/LineageOS][B]LineageOS/Cyanogenmod[/B][/URL]
-* [URL=https://github.com/GZOSP][B]GZOSP[/B][/URL]
-* [URL=https://github.com/Colt-Enigma][B]ColtOS Team & Specially @Rakesh.Batra[/B][/URL]
-* [URL=https://github.com/OmniRom][B]OmniROM[/B][/URL]
-* [URL=https://github.com/Nitrogen-Project][B]Nitrogen OS[/B][/URL]
-* [URL=https://github.com/AICP][B]AICP[/B][/URL]
-* [URL=https://github.com/CrDroidAndroid][B]crDroid[/B][/URL]
-* [URL=https://github.com/DirtyUnicorns][B]DirtyUnicorns[/B][/URL]
-* [URL=https://github.com/ScrewdAOSP][B]Screwd AOSP[/B][/URL]
-* [URL=https://github.com/CypherOS][B]CypherOS[/B][/URL]
-* [URL=https://github.com/LiquidRemix][B]Liquid Remix[/B][/URL]
-* [URL=https://github.com/BenzoROM][B]Benzo ROM[/B][/URL]
-* [URL=https://github.com/BootLeggersRom][B]BootLeggers ROM[/B][/URL]
-* [URL=https://github.com/AospExtended][B]AOSP Extended ROM[/B][/URL]
-* [URL=https://github.com/Syberia-Project][B]Syberia-Project[/B][/URL]
-* [URL=https://github.com/PixelDust-Project-X][B]PixelDust Project[/B][/URL]
-* [URL=https://github.com/PixelExperience][B]Pixel Experience[/B][/URL]
-[/SIZE]
-[/CENTER][/FONT]
+[FONT=arial][COLOR=rgb(0, 0, 0)][B]We would like to give thanks to everyone in the Android community.[/B][/COLOR][/FONT][/B]
