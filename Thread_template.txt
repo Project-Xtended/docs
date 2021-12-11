@@ -7,24 +7,22 @@
 
 [B]TEAM XTENDED: [user=8829870]@SuperDroidBond[/user] | [user=7072514]@mady51[/user] | [user=5678679]@mukesh22584[/user] | [user=7916453]@anishpratheepan[/user] | [user=9478258]@xawlw[/user] | [user=8425394]@SonalSingh18[/user] | [user=5545371]@Roger.T[/user]
 
-FEATURES: [URL='https://blog.msmxtended.org/features/']Get Feature list from HERE[/URL] 
+FEATURES: [URL='https://github.com/Project-Xtended/features#readme']Get Feature list from HERE[/URL] 
 
-SUPPORT LINK: [URL='https://t.me/XtendedOfficial']Xtended Telegram Community Chat [/URL] | [URL='https://discord.gg/rYuwCZDnDp']Xtended Community Server[/URL]
+SUPPORT LINK: [URL='https://t.me/XtendedOfficial']Xtended Telegram Public Group[/URL] 
 
-SCREENSHOTS: [/B][URL='https://photos.google.com/share/AF1QipMm2ZIi6OjtbSn3ubcVPbvvWfF9UGmgmPXQo9MMBDYlGFbZG8GEBXOBrbYn18SUWQ?key=cVJYNVF3V3RsLUVkQzJnSGZPbkQxYTlJTGtOQ1Zn'][B]Click HERE[/B][/URL]
+SCREENSHOTS: [/B][URL='https://photos.app.goo.gl/JraWDPy81VpnyaHHA'][B]Click HERE[/B][/URL]
 
-[B]ROM DOWNLOADS: [URL='']Xtended ROM[/URL]
+[B]ROM DOWNLOADS: [URL='https://downloads.project-xtended.org/']MSM-Xtended ROM[/URL] 
 
-GAPPS DOWNLOADS: [COLOR=DarkOrange]Already Included in GAPPS version[/COLOR]
-
-RECOMMENDED GAPPS:  [URL='https://androidfilehost.com/?w=files&flid=322935']MindTheGapps[/URL] 
-
-INSTRUCTIONS: [URL='']Click HERE[/URL] 
+GAPPS DOWNLOADS: [COLOR=DarkOrange]Already Included[/COLOR]
 
 ROM SOURCE: [URL='https://github.com/Project-Xtended']Project-Xtended ROM Sources[/URL] 
 
 KERNEL SOURCE: [URL='https://github.com/Xtended-Devices']Our Official Devices Sources[/URL]
 
-DONATIONS: [URL='https://www.paypal.me/superdroidbond']Project-Xtended[/URL] | [URL='']Maintainer[/URL]
+Social Media Link: [URL='https://www.youtube.com/channel/UCgundwa1PAr2PlPKbFGR6Rw']Click HERE[/URL] (Subscribe to our Youtube Channel for latest updates)
 
-[FONT=arial][COLOR=rgb(0, 0, 0)][B]We would like to give thanks to everyone in the Android community.[/B][/COLOR][/FONT][/B]
+DONATIONS: [URL='https://www.paypal.me/superdroidbond']SuperDroidBond[/URL] | [URL='https://www.paypal.me/mukesh22584']mukesh22584[/URL] | [URL='https://www.paypal.me/mady51']mady51[/URL] 
+
+[FONT=arial][COLOR=rgb(0, 0, 0)][B]We would like to give thanks to everyone in the Android community, big or small.[/B][/COLOR][/FONT][/B]
